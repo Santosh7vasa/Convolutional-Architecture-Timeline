@@ -8,6 +8,7 @@ A repository that has Image Classification models with all major Convolutional a
 - [ ] VGG
 - [ ] Inception
 - [ ] ResNet
+- [ ] MobileNet
 - [ ] DenseNet
 - [ ] EfficientNet
 
